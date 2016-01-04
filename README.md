@@ -1,9 +1,11 @@
-Personal Goals
-==============
+# Personal Goals
 
 Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning.
 
-# Overarching Goals for 2016:
+**Strategy:** Split goals to tiny little things and get expertise one by one
+
+# Overarching Goals for 2016
+
 1. Android developer nanodegree graduation
 2. Get strong in greedy algorithms, dynamic programming, graphs
 3. Master the terminal
@@ -12,19 +14,20 @@ Personal goals made open source for accessibility across computers I use, transp
 6. Blog more often
 7. Redesign my site - use gulp & optimise the front-end workflow - [see una style](https://github.com/una/una.github.io)
 
-# December 27, 2015
+# January 4 2016
 
-### This Week's Focus: Holidays/Android
+### This Week's Focus: Android
 
 ## Things I'll do This Week:
 
-- [ ] Finish [Project Duo](https://www.udacity.com/course/viewer#!/c-nd801/l-4302058591/m-4288273684)
-- [ ] Complete [this](https://www.udacity.com/course/viewer#!/c-ud855-nd) course
-- [ ] Start the insanity workout again
+- [ ] Finish [Project Duo](http://bit.ly/1PvZX86)
+- [ ] Complete [this](http://bit.ly/1OXQxj1) course
 
 ### Things I'll Do in the Future:
+
 - [ ] Learn about web scraping with node
-- [ ] Read Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
-- [ ] Do this [Functional Programming](http://jhusain.github.io/learnrx/) course
+- [ ] Read Google's [Web Fundamentals](http://bit.ly/1MFGLAu)
+- [ ] Do this [Functional Programming](http://bit.ly/1mPdDSm) course
+- [ ] Start the insanity workout again
 
 ### Backlog: Side Projects & Other Ideas
