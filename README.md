@@ -20,8 +20,8 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll do This Week:
 
-- [ ] Finish [Project Duo](http://bit.ly/1PvZX86)
-- [ ] Complete [this](http://bit.ly/1OXQxj1) course
+- [ ] Gradle course
+- [ ] atleast 10 hacker rank problems
 
 ### Things I'll Do in the Future:
 
