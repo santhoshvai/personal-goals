@@ -20,8 +20,8 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll do This Week:
 
-- [ ] Gradle course
-- [ ] atleast 10 hacker rank problems
+- [ ] Complete Gradle course
+- [ ] atleast 5 hacker rank problems
 
 ### Things I'll Do in the Future:
 
