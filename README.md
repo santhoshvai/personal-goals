@@ -14,7 +14,7 @@ Personal goals made open source for accessibility across computers I use, transp
 6. Blog more often
 7. Redesign my site - use gulp & optimise the front-end workflow - [see una style](https://github.com/una/una.github.io)
 
-# January 4 2016
+# January 25 2016
 
 ### This Week's Focus: Android
 
