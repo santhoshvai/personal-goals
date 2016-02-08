@@ -13,6 +13,7 @@ Personal goals made open source for accessibility across computers I use, transp
 5. JS - get strong
 6. Blog more often
 7. Redesign my site - use gulp & optimise the front-end workflow - [see una style](https://github.com/una/una.github.io)
+8. **Learn to speak with more confidence**
 
 # January 25 2016
 
@@ -20,8 +21,8 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll do This Week:
 
-- [ ] Complete Gradle course
-- [ ] atleast 5 hacker rank problems
+- [ ] 75% of the Gradle project
+- [ ] Atleast 5 hackerrank problems
 
 ### Things I'll Do in the Future:
 
