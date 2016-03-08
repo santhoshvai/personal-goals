@@ -15,20 +15,17 @@ Personal goals made open source for accessibility across computers I use, transp
 7. Redesign my site - use gulp & optimise the front-end workflow - [see una style](https://github.com/una/una.github.io)
 8. **Learn to speak with more confidence**
 
-# Feb 22 2016
+# Mar 8 2016
 
 ### This Week's Focus: Android
 
 ## Things I'll do This Week:
 
-- [ ] Complete Android Wear Project
+- [ ] Start capstone Project
 - [ ] Atleast 5 hackerrank problems
 
 ### Things I'll Do in the Future:
 
-- [ ] Learn about web scraping with node
-- [ ] Read Google's [Web Fundamentals](http://bit.ly/1MFGLAu)
-- [ ] Do this [Functional Programming](http://bit.ly/1mPdDSm) course
 - [ ] Start the insanity workout again
 
 ### Backlog: Side Projects & Other Ideas
