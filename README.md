@@ -21,7 +21,7 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll do This Week:
 
-- [ ] use AWS lambda to convert the evlo xml to json and store it in s3
+- [ ] use AWS lambda to convert the evlo xml to protobuf-lite and store it in s3
 - [ ] start waking up early, try to wake up daily at 6 AM
 
 ### Things I'll Do in the Future:
