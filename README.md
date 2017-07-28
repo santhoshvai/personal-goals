@@ -21,8 +21,8 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll do This Week:
 
-- [ ] Integrate the protobuf models and use them to populate the SQL
-- [ ] start waking up early, try to wake up daily at 6 AM
+- Integrate the protobuf models and use them to populate the SQL
+- start waking up early, try to wake up daily at 6 AM
 
 ### Things I'll Do in the Future:
 
