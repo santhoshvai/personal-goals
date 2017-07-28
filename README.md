@@ -15,13 +15,13 @@ Personal goals made open source for accessibility across computers I use, transp
 7. Redesign my site - use gulp & optimise the front-end workflow
 8. **Learn to speak with more confidence**
 
-# July 15 2017
+# July 28 2017
 
 ### This Week's Focus: Resume the Evlo app
 
 ## Things I'll do This Week:
 
-- [ ] use AWS lambda to convert the evlo xml to protobuf-lite and store it in s3
+- [ ] Integrate the protobuf models and use them to populate the SQL
 - [ ] start waking up early, try to wake up daily at 6 AM
 
 ### Things I'll Do in the Future:
