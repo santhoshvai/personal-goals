@@ -17,11 +17,12 @@ Personal goals made open source for accessibility across computers I use, transp
 
 # July 28 2017
 
-### This Week's Focus: Resume the Evlo app
+### This Week's Focus: Tablet mode - Evlo
 
 ## Things I'll do This Week:
 
-- Integrate the protobuf models and use them to populate the SQL
+- Add different layout for tablets, same screen flow though. No master detail.
+- 10 more problems at firecode.io
 - start waking up early, try to wake up daily at 6 AM
 
 ### Things I'll Do in the Future:
@@ -29,3 +30,5 @@ Personal goals made open source for accessibility across computers I use, transp
 - Start contributing to algorithm crackers repo again
 
 ### Backlog: Side Projects & Other Ideas
+
+ - Thirukural app. Preferably in flutter.
