@@ -15,15 +15,16 @@ Personal goals made open source for accessibility across computers I use, transp
 7. Redesign my site - use gulp & optimise the front-end workflow
 8. **Learn to speak with more confidence**
 
-# July 28 2017
+# August 14 2017
 
 ### This Week's Focus: Tablet mode - Evlo
 
 ## Things I'll do This Week:
 
-- Add different layout for tablets, same screen flow though. No master detail.
+- Evlo : Use a library with good material intro screen
+- Dutch inburgering exam prep start
+- start waking up early, try to wake up daily at 5:30 AM
 - 10 more problems at firecode.io
-- start waking up early, try to wake up daily at 6 AM
 
 ### Things I'll Do in the Future:
 
@@ -32,3 +33,4 @@ Personal goals made open source for accessibility across computers I use, transp
 ### Backlog: Side Projects & Other Ideas
 
  - Thirukural app. Preferably in flutter.
+ - Learn [Neural networks and Deep learning](https://www.coursera.org/learn/neural-networks-deep-learning)
