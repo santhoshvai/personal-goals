@@ -15,16 +15,15 @@ Personal goals made open source for accessibility across computers I use, transp
 7. Redesign my site - use gulp & optimise the front-end workflow
 8. **Learn to speak with more confidence**
 
-# August 14 2017
+# August 22 2017
 
-### This Week's Focus: Tablet mode - Evlo
+### This Week's Focus: cycle trip and evlo intro
 
 ## Things I'll do This Week:
 
-- Evlo : Use a library with good material intro screen
-- Dutch inburgering exam prep start
-- start waking up early, try to wake up daily at 5:30 AM
-- 10 more problems at firecode.io
+- Weekend go for cycling trip
+- Use a library with good material intro screen for evlo
+- 2 more problems at firecode.i0
 
 ### Things I'll Do in the Future:
 
