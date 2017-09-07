@@ -15,7 +15,7 @@ Personal goals made open source for accessibility across computers I use, transp
 7. Redesign my site - use gulp & optimise the front-end workflow
 8. **Learn to speak with more confidence**
 
-# August 30 2017
+# September 4 2017
 
 ### This Week's Focus: Evlo intro and Dutch exam
 
