@@ -15,15 +15,16 @@ Personal goals made open source for accessibility across computers I use, transp
 7. Redesign my site - use gulp & optimise the front-end workflow
 8. **Learn to speak with more confidence**
 
-# September 4 2017
+# September 13 2017
 
-### This Week's Focus: Evlo intro and Dutch exam
+### This Week's Focus: Dutch exam and Evlo intro
 
 ## Things I'll do This Week:
 
-- Finish evlo intro screens
 - 5 more problems at firecode.io
-- Start waking up early again
+- Start waking up at 5:00
+- Evlo intro screen must be completed
+- Thirukural favorites page
 
 ### Things I'll Do in the Future:
 
